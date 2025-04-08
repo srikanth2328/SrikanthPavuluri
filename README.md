@@ -1,6 +1,6 @@
 # Srikanth Pavuluri
 
-## Bio
+## About Me
 As a Master’s student in Computer Science with a strong foundation in data analysis, machine learning, and programming, I have honed my skills through academic projects and professional experiences. During my tenure at Adventure Technology Solutions, I utilized Python and R to preprocess and analyze complex datasets, developed predictive models for government applications, and created dynamic dashboards using Tableau and Power BI.
 
 Certified in Python, SQL, and machine learning, I thrive on solving complex data problems and delivering actionable insights. My passion lies in leveraging data-driven strategies to optimize processes and support decision-making. I am eager to apply my skills in data analysis, visualization, and advanced computing to contribute meaningfully to impactful projects.
