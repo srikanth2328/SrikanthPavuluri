@@ -1,10 +1,8 @@
 # 👨‍💻 Srikanth Pavuluri – Data & ML Analyst Portfolio
 
-📍 Edmond, OK | 📧 srikanthpavuluri555@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sripavuluri/)
-
 ---
 
-## 🚀 About Me
+## 🚀 Who Am I?
 
 I am a data and AI enthusiast with hands-on experience in data analytics, machine learning, big data pipelines, and cloud platforms. I specialize in transforming data into actionable insights, building predictive models, and delivering data-driven solutions for real-world problems.
 
@@ -12,7 +10,7 @@ Currently pursuing my Master's in Computer Science (Data Science) at Oklahoma Ch
 
 ---
 
-## 🧠 Skills & Tools
+## My Tool Kit
 
 - **Languages**: Python, SQL, R, C#
 - **Cloud & Big Data**: Azure ML, Hadoop, Spark, MapReduce
@@ -22,7 +20,7 @@ Currently pursuing my Master's in Computer Science (Data Science) at Oklahoma Ch
 
 ---
 
-## 📊 Featured Projects
+## 📊 Projects I build with my tool kit
 
 ### 🔹 [Cyclistic Bike-Share Case Study](./Cyclistic-Bike-Share-Case-Study)
 - Applied the 6-step data analysis process (Ask → Act)
@@ -56,10 +54,8 @@ Currently pursuing my Master's in Computer Science (Data Science) at Oklahoma Ch
 
 ## 📫 Contact Me
 
-Feel free to connect or reach out:
 📧 srikanthpavuluri555@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sripavuluri/)
 
 ---
 
-> *“Turning data into decisions — and insights into impact.”*
