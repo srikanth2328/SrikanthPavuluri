@@ -1,4 +1,4 @@
-# 👨‍💻 Srikanth Pavuluri – Data & ML Analyst Portfolio
+# 👨‍💻 Srikanth Pavuluri – Data & ML Analyst
 
 ---
 
